@@ -108,18 +108,6 @@ A data-analysis project focused on extracting insights from datasets and present
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur260&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="400" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Mayur260&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-</div>
-
 ## 🏆 What I'm Working Toward
 
 ```text
